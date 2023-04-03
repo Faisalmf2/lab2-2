@@ -1,0 +1,54 @@
+below is the html file
+//..............................
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="to-do-list.css">
+<title>Document</title>
+</head>
+<body>
+<div class="my-list">
+<h1>Today's to do list</h1>
+<p>Monday, September 19th</p>
+<ol>
+<li>Write a blog post</li>
+<li>Go to the blank</li>
+<li>Study for the exams</li>
+<li>Renew web hosting account and domain name</li>
+<li>Learn something new </li>
+<li>Update project log</li>
+</ol>
+</div>
+</body>
+</html>
+ 
+/.......................................
+Below is the css file
+/........................................
+.my-list{
+padding: 8px 24px;
+background-color: #f7f381;
+width: 500px;
+font-size: 30px;
+border: 1px solid #f7f381;
+border-color: #f7f381;
+box-shadow: 0 0 10px 2px #333333;
+margin: auto;
+}
+ 
+ol{
+margin: 12px;
+}
+ 
+p{
+text-align: center;
+}
+ 
+/.............................
+Name of css file is to-do-list.css and html file is to-do-list.html
+ 
+
+Above is the snapshot of the website
